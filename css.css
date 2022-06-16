@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkolivegreen;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	padding: 20px;
+}
+h1,h2 { 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: cadetblue
+}
+
+
+
+
+body {
+	background-image: url("../Documents/Projektni zadatak/slike/163885.jpg");
+	
+}
+a{ color: beige;
+	background-color: black;
+	
+	
+	
+
+
